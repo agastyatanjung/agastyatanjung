@@ -1,4 +1,4 @@
-# Hey There! Aku Agas!
+# Hey There! Aku Agas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Frontend%20Developer%20%26%20UI%2FX%20Designer-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
