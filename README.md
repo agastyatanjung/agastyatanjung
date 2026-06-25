@@ -9,10 +9,10 @@ Saya seorang pengembang *frontend* dan perancang UI/UX yang berfokus pada pencip
 
 ---
 
-### 💻 Apa yang Sedang Saya Kerjakan (Current Focus)
+###  Apa yang Sedang Saya Kerjakan (Current Focus)
 
-* 🚀 **AI Resume Analyzer**: Membangun asisten pintar berbasis AI untuk membedah, mengukur skor ATS, dan mengoptimalkan dokumen karier bertaraf dunia.
-* 🌿 **Agronix**: Mengembangkan konsep startup digital untuk meningkatkan literasi agrikultur dan menyediakan analisis data presisi bagi generasi petani milenial di Indonesia.
+*  **AI Resume Analyzer**: Membangun asisten pintar berbasis AI untuk membedah, mengukur skor ATS, dan mengoptimalkan dokumen karier bertaraf dunia.
+*  **Agronix**: Mengembangkan konsep startup digital untuk meningkatkan literasi agrikultur dan menyediakan analisis data presisi bagi generasi petani milenial di Indonesia.
 
 ---
 
@@ -33,12 +33,12 @@ Saya seorang pengembang *frontend* dan perancang UI/UX yang berfokus pada pencip
 
 ---
 
-### 📬 Mari Terhubung!
+###  Mari Terhubung!
 
 Saya selalu terbuka untuk berdiskusi seputar desain UI/UX, teknologi web terbaru, atau kolaborasi proyek *open-source* yang menarik.
 
-* 📧 **Email Resmi**: agastyatanjung24@gmail.com
-* 💼 **GitHub**: [@agastyatanjung](https://github.com/agastyatanjung)
+*  **Email Resmi**: agastyatanjung24@gmail.com
+*  **GitHub**: [@agastyatanjung](https://github.com/agastyatanjung)
 
 ---
 
