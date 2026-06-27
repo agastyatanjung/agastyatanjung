@@ -9,12 +9,7 @@ Saya seorang pengembang *frontend* dan perancang UI/UX yang berfokus pada pencip
 
 ---
 
-###  Apa yang Sedang Saya Kerjakan (Current Focus)
 
-*  **AI Resume Analyzer**: Membangun asisten pintar berbasis AI untuk membedah, mengukur skor ATS, dan mengoptimalkan dokumen karier bertaraf dunia.
-*  **Agronix**: Mengembangkan konsep startup digital untuk meningkatkan literasi agrikultur dan menyediakan analisis data presisi bagi generasi petani milenial di Indonesia.
-
----
 
 ###  Tech Stack & Alat Desain
 
